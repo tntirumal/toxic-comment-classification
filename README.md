@@ -10,11 +10,11 @@ During the data analysis phase, I applied several techniques to gain insights an
 
 2. **Venn Diagram**: To visualize the overlap between different categories of toxic comments, I used Venn diagrams. This helped identify commonalities and distinctions between different types of toxic comments, aiding in the development of the classification model.
 
-![Venn Diagram](assets/venn_diagram.png)
+![Venn Diagram](assest/venn_diagram.png)
 
 3. **Word Cloud**: I generated word clouds to visualize the most frequent words in toxic comments. This provided an intuitive representation of the words that appear most often and helped identify prominent themes or patterns.
 
-![Word Cloud](assets/word_cloud.png)
+![Word Cloud](assest/word_cloud.png)
 
 4. **Data Preprocessing**: To prepare the data for the LSTM model, I performed various preprocessing steps such as removing punctuation, converting text to lowercase, tokenizing text into individual words, and removing stop words. These steps ensured that the data was in a suitable format for training the model.
 
